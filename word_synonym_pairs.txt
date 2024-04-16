@@ -1,0 +1,9 @@
+tell,inform,True
+tell,speak,True
+tell,admire,False
+tell,find,False
+tell,love,True
+see,inform,False
+see,speak,False
+see,find,False
+see,love,False
